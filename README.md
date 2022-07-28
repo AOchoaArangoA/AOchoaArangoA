@@ -3,7 +3,7 @@
   
 - 📘 I’m **Economist** from EAFIT University
 
-- ⚙️ I’m enthusiastic for **Data Scientist Theory and Methodology**
+- ⚙️ I’m enthusiastic for **Data Science Theory and Methodology**
 
 - 🤝 I’m developing my **programming skills**
 
